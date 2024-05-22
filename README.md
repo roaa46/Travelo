@@ -7,7 +7,7 @@ Travelo is a simple travel website showcasing popular destinations around the wo
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Live Demo](#LiveDemo)
+- [Live Demo](#Live-Demo)
 
 ## Introduction
 
