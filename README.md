@@ -7,7 +7,6 @@ Travelo is a simple travel website showcasing popular destinations around the wo
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Live Demo](#Live-Demo)
 
 ## Introduction
 
@@ -18,6 +17,3 @@ Travelo is a static website designed to inspire travelers and help them discover
 - **Destination Information:** Discover popular destinations with detailed information.
 - **Beautiful Design:** Engage with stunning images and intuitive layout.
 - **Responsive:** The website is optimized for various screen sizes, ensuring a seamless experience across devices.
-
-## Live Demo
-    > https://roaa46.github.io/Travelo/
